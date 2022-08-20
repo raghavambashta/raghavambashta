@@ -8,14 +8,14 @@
 <a href="https://www.leetcode.com/raghavambashta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghavambashta" height="30" width="40" /></a>
 </p>
 
-
+<!-- 
 ![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact)](https://github.com/raghavambashta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact)](https://github.com/raghavambashta/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/raghavambashta/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact" />
 </a>

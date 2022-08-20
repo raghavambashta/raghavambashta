@@ -15,12 +15,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact" />
 </a>
 
-body.light-mode {
+body {
   background-color: #fff;
   color: #333;
   transition: background-color 0.3s ease;
 }
-body.dark-mode {
+body {
   background-color: #1a1919;
   color: #999;
 }

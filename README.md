@@ -9,16 +9,8 @@
 </p>
 
 
-<!-- 
-[![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta)](https://github.com/raghavambashta/github-readme-stats)
-![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&hide=contribs,prs)
-![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&count_private=true)
-![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true) -->
 ![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta)](https://github.com/raghavambashta/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&exclude_repo=github-readme-stats,raghavambashta.github.io)](https://github.com/raghavambashta/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&hide=javascript,html)](https://github.com/raghavambashta/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&langs_count=8)](https://github.com/raghavambashta/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact)](https://github.com/raghavambashta/github-readme-stats)
 
 

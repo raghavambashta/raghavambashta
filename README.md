@@ -13,11 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact)](https://github.com/raghavambashta/github-readme-stats)
 
-
-<a href="https://github.com/raghavambashta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghavambashta&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<!-- <a href="https://github.com/raghavambashta/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghavambashta&repo=convoychat" />
-</a> -->
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

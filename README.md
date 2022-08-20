@@ -14,3 +14,13 @@
 <a href="https://github.com/raghavambashta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact" />
 </a>
+
+body.light-mode {
+  background-color: #fff;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+body.dark-mode {
+  background-color: #1a1919;
+  color: #999;
+}

@@ -16,6 +16,6 @@
 <a href="https://github.com/raghavambashta/github-readme-stats">
   <img align="center" src="(https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/raghavambashta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact" />
 </a>

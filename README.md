@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav Ambashta</h1>
+<h1 align="center">Hi 👋, I am Raghav Ambashta</h1>
 <h3 align="center">Passionate about coding, development, and learning new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>

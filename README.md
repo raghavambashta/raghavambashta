@@ -9,3 +9,8 @@
 ![Raghav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavambashta&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact&theme=radical)](https://github.com/raghavambashta/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/raghavambashta/count.svg" />
+</p>

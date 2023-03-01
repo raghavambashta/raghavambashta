@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavambashta&layout=compact&theme=radical)](https://github.com/raghavambashta/github-readme-stats)
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/raghavambashta/count.svg" />
-</p>
+</p> -->
